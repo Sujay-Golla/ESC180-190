@@ -1,5 +1,5 @@
 # ESC180-190
-Solutions by: Sujay Golla and Arthur Dutta (Up to ESC190 and Project 2 of ESC190) 
+Solutions by: Sujay Golla and Arthur Dutta (in ESC180 and for Project 2 of ESC190) 
 
 **Description:** Solutions written for labs and projects of ESC180/190 in Python and C, practicing from fundamentals to practical applications like web scraping, vibe coding using API calls, seam carving (and related image algorithms) as well as Data structures and Algorithms in general.
 
